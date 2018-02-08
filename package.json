@@ -16,7 +16,8 @@
   "keywords": [
     "jupyter",
     "jupyterlab",
-    "latex"
+    "latex",
+    "jupyterlab extension"
   ],
   "jupyterlab": {
     "extension": "lib/index.js"
